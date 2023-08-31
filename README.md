@@ -3,7 +3,7 @@
 
 Implementation of a neural network model, to classify images of clothing, using `Tensorflow` in `python`.
 
-Author:  _[Islam](https://www.linkedin.com/in/islam-moldybayev-148ab9234/)_
+Author:  _[Islam](https://www.linkedin.com/in/islammoldybayev)_
 
 Dataset:  _[Fashion-MNIST](http://yann.lecun.com/exdb/mnist/)_
 
